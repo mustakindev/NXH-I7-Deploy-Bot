@@ -1,0 +1,31 @@
+token: "YOUR_BOT_TOKEN"
+admin_ids:
+  - "1128161197766746213"
+plans:
+  invites:
+    - name: "Starter"
+      invites: 6
+      ram: "8GB"
+      cores: 5
+      disk: "10GB"
+    - name: "PlansNamePLS"
+      invites: 10
+      ram: "14GB"
+      cores: 6
+      disk: "30GB"
+    - name: "Premium"
+      invites: 15
+      ram: "16GB"
+      cores: 7
+      disk: "50GB"
+  boosts:
+    - name: "Boost-1"
+      boosts: 1
+      ram: "12GB"
+      cores: 5
+      disk: "30GB"
+    - name: "Boost-2"
+      boosts: 2
+      ram: "16GB"
+      cores: 6
+      disk: "40GB"
