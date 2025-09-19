@@ -1,6 +1,3 @@
-Absolutely! Here’s a **beautiful, professional, and cute README.md** for your `NxH-i7` Discord VPS Bot — perfect for GitHub, documentation, or team sharing.
-
----
 
 # 🌸 NxH-i7 — Premium Discord VPS Hosting Bot
 
@@ -55,8 +52,8 @@ Perfect for:
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/NxH-i7.git
-cd NxH-i7
+git clone https://github.com/mustakindev/NXH-I7-Deploy-Bot.git
+cd NXH-I7-Deploy-Bot
 ```
 
 ### 2. Configure `config.yml`
